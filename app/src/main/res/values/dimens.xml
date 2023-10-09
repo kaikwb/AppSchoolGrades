@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grade_min_height">48dp</dimen>
+    <dimen name="grade_width">150dp</dimen>
+    <dimen name="button_width">150dp</dimen>
+    <dimen name="button_radius">4dp</dimen>
+</resources>
